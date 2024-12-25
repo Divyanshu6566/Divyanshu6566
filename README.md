@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Frontend Development.<br>🌱 I’m  Currently Exploring Content Writing Skills on Hashnode.<br>🤔 Spending My Mornings In Solving and Learning DSA problems.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/divyanshu-shukla-45355022b/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Born On 1st Of January.
+🔭 I’m Currently Working On Frontend Development.<br>🌱 I’m  Currently Exploring Content Writing Skills on Hashnode.<br>🤔 Spending My Mornings In Solving and Learning DSA problems.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/divyanshu-shukla-45355022b/<br>😄 Pronouns: He/His<br>.
 
 
 ## 🌐 Socials:
