@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Working On Frontend Development.<br>🌱 I’m  Currently Exploring Content Writing Skills on Hashnode.<br>🤔 Spending My Mornings In Solving and Learning DSA problems.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/divyanshu-shukla-45355022b/<br>😄 Pronouns: He/His<br>.
-
+🔭 I’m Currently Working On Frontend Development.<br>🌱 I’m  Currently Exploring Content Writing Skills on Hashnode.<br>🤔 Spending My Mornings In Solving and Learning DSA problems.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/divyanshu-shukla-45355022b/<br>😄 Pronouns: He/His<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/divyanshu2003mth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-shukla-45355022b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/techi_divyanshu) 
